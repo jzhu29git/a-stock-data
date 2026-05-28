@@ -1,0 +1,6 @@
+mootdx==0.11.7
+requests==2.32.3
+urllib3==2.2.3
+pandas
+stockstats==0.6.8
+python-dotenv
